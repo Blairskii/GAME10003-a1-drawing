@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/blairskii/Desktop/lastname-firstname-template-v1-3-3/lastname-firstname-template-v1-3-3.csproj": {}
+    "/Users/blair/RiderProjects/GAME10003-a1-drawing/lastname-firstname-template-v1-3-3.csproj": {}
   },
   "projects": {
-    "/Users/blairskii/Desktop/lastname-firstname-template-v1-3-3/lastname-firstname-template-v1-3-3.csproj": {
+    "/Users/blair/RiderProjects/GAME10003-a1-drawing/lastname-firstname-template-v1-3-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/blairskii/Desktop/lastname-firstname-template-v1-3-3/lastname-firstname-template-v1-3-3.csproj",
+        "projectUniqueName": "/Users/blair/RiderProjects/GAME10003-a1-drawing/lastname-firstname-template-v1-3-3.csproj",
         "projectName": "MohawkGame10003.2DGameTemplate",
-        "projectPath": "/Users/blairskii/Desktop/lastname-firstname-template-v1-3-3/lastname-firstname-template-v1-3-3.csproj",
-        "packagesPath": "/Users/blairskii/.nuget/packages/",
-        "outputPath": "/Users/blairskii/Desktop/lastname-firstname-template-v1-3-3/obj/",
+        "projectPath": "/Users/blair/RiderProjects/GAME10003-a1-drawing/lastname-firstname-template-v1-3-3.csproj",
+        "packagesPath": "/Users/blair/.nuget/packages/",
+        "outputPath": "/Users/blair/RiderProjects/GAME10003-a1-drawing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/blairskii/.nuget/NuGet/NuGet.Config"
+          "/Users/blair/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/blairskii/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/blair/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

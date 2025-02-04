@@ -18,7 +18,7 @@ namespace MohawkGame2D
         public void Setup()
         {
             Window.SetSize(width: 400, height: 400);
-            Window.SetTitle("Trampoline");
+            Window.SetTitle("RedBull");
             Window.TargetFPS = 60;
         }
         float circleX = 200;// start position(x axis)
@@ -36,7 +36,7 @@ namespace MohawkGame2D
             Draw.LineColor = Color.Black;
             Draw.LineSize = 0.7f;
             Draw.Rectangle(0, 300, 400, 150);
-
+            drawCloud();
             // Detect key presses for left and right arrow keys
             {
                 if (Input.IsKeyboardKeyDown(KeyboardInput.Right)) //if right arrow key is pressed
@@ -97,6 +97,12 @@ namespace MohawkGame2D
                 
                
                 
+                
+               
+
+
+
+
 
             }
 
@@ -107,6 +113,21 @@ namespace MohawkGame2D
 
         }
 
+        void drawCloud()
+        {
+            for (int i = 0; i < 4; i ++)
+            {
+                int cloudX = 50 + i * 100;
+                
+                int x = 50 + i * 100;
+                Draw.FillColor = Color.White;
+                Draw.LineSize = 0.7f;
+                Draw.LineColor = Color.White;
+                Draw.Circle(cloudX, 50, 20);
+                Draw.Circle(cloudX + 20, 45, 25);
+                Draw.Circle(cloudX + 40, 50, 20);
+            }
+        }
     }
 
 

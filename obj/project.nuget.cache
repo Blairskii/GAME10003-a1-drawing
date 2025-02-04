@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3gnKK2bfZNA=",
+  "dgSpecHash": "HIaPDkimPT0=",
   "success": true,
-  "projectFilePath": "/Users/blairskii/Desktop/lastname-firstname-template-v1-3-3/lastname-firstname-template-v1-3-3.csproj",
+  "projectFilePath": "/Users/blair/RiderProjects/GAME10003-a1-drawing/lastname-firstname-template-v1-3-3.csproj",
   "expectedPackageFiles": [
-    "/Users/blairskii/.nuget/packages/raylib-cs/6.1.1/raylib-cs.6.1.1.nupkg.sha512",
-    "/Users/blairskii/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+    "/Users/blair/.nuget/packages/raylib-cs/6.1.1/raylib-cs.6.1.1.nupkg.sha512",
+    "/Users/blair/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
